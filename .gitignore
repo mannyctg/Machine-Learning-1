@@ -1,0 +1,25 @@
+# Entorno virtual
+venv/
+.env/
+
+# Archivos temporales de Python
+__pycache__/
+*cache
+temp*
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuraciones locales de VSCode
+.vscode/
+
+# Datasets
+#*.csv
